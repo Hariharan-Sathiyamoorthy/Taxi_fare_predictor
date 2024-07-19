@@ -1,4 +1,0 @@
-scikit-learn
-numpy
-boto3
-tarfile
